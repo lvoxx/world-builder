@@ -1,0 +1,8 @@
+namespace: io.github.lvoxx.world-builder
+creator: lvoxx
+name: world-builder
+repo-url: https://github.com/lvoxx/world-builder
+linked-objects-in-files:
+  - "World-Builder.blend": "Main 
+versions:
+   - 1.0.0: /1.0.0/world-builder-1.0.0.zip
