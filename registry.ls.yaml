@@ -3,6 +3,9 @@ namespace: io.github.lvoxx.world-builder
 linked-objects-in-files:
   "World-Builder.blend": "Main"
 versions:
+  dummy:
+    tag: dummy
+    release-file: dummy.zip
   1.0.0:
     tag: 1.0.0
     release-file: world-builder-1.0.0.zip
